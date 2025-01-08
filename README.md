@@ -1,1 +1,15 @@
-# 100-selected-problems
+# "100 Selected Problems" by Miron Yurkevich
+
+There's a saying: "Tell me who your friends are, and I will tell you who you are." When talking about mathematicians, this saying might be reformulated as: "Tell me what your favorite problems are, and I will tell you who you are."
+
+With my career as a participant soon coming to a logical conclusion, I wanted to take a moment to reminisce about my journey and compile a collection of my favorite problems.
+
+Each of these problems made the list for different reasons. Some were ones I couldn't solve despite high effort during the contest, leaving me stunned while listening to the solution from a teammate afterward. Others, in contrast, earned me a desired gold medal through last-minute flashes of inspiration and hurriedly written solutions that I proudly said to have gotten 5 minutes after a read to tease others. Some problems were highly instructive, and reflecting on them later enabled me to solve many others of a similar nature. Others were fun to solve, offering multiple perspectives to explore and leaving me mind-blown upon reading their official solutions. What unites all these problems is the emotion they evoke whenever I revisit their statements. That’s what I find truly remarkable: how a problem statement can transport me back to the exam hall or a camp where I spent late nights solving it, pausing only for poker games and debates about Steins;Gate’s ending with friends. With all this in mind, I want to share that same joy with you!
+
+Despite it being a write up of miscellaneous problems, I aimed to provide textbook value as well. I avoided repeating the same techniques across problems (Had I not, the selection would probably be different), ensuring the handout spans a wide range of approaches relevant to modern olympiad problems --- from the popular to the more niche. In some cases, I have included multiple solutions to the same problem, remembering Bruce Lee’s famous words: "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times." I also tried to present complete proofs and give the motivation behind every step of the problem, as I have always been frustrated by solutions that omit steps --- even the “obvious” ones.
+
+To further aid readers, I have included 2^10 hints throughout the collection, designed as step-by-step guides through solutions; I know how important it's for self-confidence to be able to finish the solution on your own, even if it took 30 hints to do it. Where multiple solutions exist, I have provided separate lines of hints to reflect it.
+
+Even though I tried to prove every step, this handout is not beginner-friendly. It’s intended for those who are confident in their skills and seek to tackle challenging, high-quality problems to deepen their understanding and, I hope, learn something new.
+
+To conclude, the problems are not ordered by their difficulty, so make sure to take your time with each one and don't read the solutions too fast. Shoutout to everyone whose influence can be seen in this book: Without you, I wouldn't be who I am today! Enjoy this selection from my journey! May God forgive me for not using directed angles in geo section.
